@@ -1,0 +1,43 @@
+﻿[
+  {
+    "question": "Какая страна самая большая в мире?",
+    "answers": [
+      {"text": "Россия ", "correct": true},
+      {"text": "США ", "correct": false},
+      {"text": "Китай ", "correct": false},
+      {"text": "Канада ", "correct": false}
+    ],
+    "background": "Backgrounds/Russia"
+  },
+  {
+    "question": "Какой металл самый тяжелый?",
+    "answers": [
+      {"text": "Золото", "correct": false},
+      {"text": "Платина", "correct": false},
+      {"text": "Олово", "correct": false},
+      {"text": "Осмий", "correct": true}
+    ],
+    "background": "Backgrounds/Osmium"
+  },
+  {
+    "question": "C какого года компания AdAurum на рынке?",
+    "answers": [
+      {"text": "2012", "correct": false},
+      {"text": "2013", "correct": false},
+      {"text": "2014", "correct": false},
+      {"text": "2015", "correct": true}
+    ],
+    "background": "Backgrounds/AdAurum"
+  },
+  {
+    "question": "Что было создано благодаря грибам-плесени?",
+    "answers": [
+      {"text": "Пенициллин", "correct": true},
+      {"text": "Рыбий жир", "correct": false},
+      {"text": "Аскорбинки", "correct": false},
+      {"text": "Пенталгин", "correct": false}
+    ],
+    "background": "Backgrounds/Penicillin"
+  }
+  
+]
